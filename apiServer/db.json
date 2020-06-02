@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "Demo stream",
+      "id": 1
+    },
+    {
+      "title": "New Stream",
+      "description": "Sample Stream",
+      "id": 2
+    },
+    {
+      "title": "Sample Stream",
+      "description": "Stream with ID updated",
+      "userId": "107188353908481331845",
+      "id": 3
+    },
+    {
+      "title": "Navigation Stream",
+      "description": "Sample navigation form",
+      "userId": "107188353908481331845",
+      "id": 4
+    }
+  ]
+}
